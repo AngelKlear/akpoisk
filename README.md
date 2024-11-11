@@ -5,3 +5,4 @@ https://akpoisk.000.pe/
 # How to download
 You can download here!
 https://akpoisk.000.pe/download
+AKpoisk is free for Windows and Android
